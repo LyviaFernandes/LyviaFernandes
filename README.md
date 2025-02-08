@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Venus!(^w^)
-- 👀 I’m interested in gym, art, tatto, witch, goth subculture, makeup and cooking 
-- 🌱I ’m currently learning Java and witch 
-- 💞️ I’m looking to collaborate on ... i dont no now 
-- 📫 How to reach me ... @venus_adeusa in instagram, or @.pesseguito in discord.
-- 😄 Pronouns: ... whatever \(°3°)/  ^     ^
-- ⚡ Fun fact: ... i love cats <3   (-° U °-)
+Meu nome é Lyvia, tenho 18 anos, atualmente curso Tecnico em Analise e desenvolvimento de sistemas no senai.
+tenho certificado em informatica e java, estou cursando python tambem.
 
 <!---
 LyviaFernandes/LyviaFernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
