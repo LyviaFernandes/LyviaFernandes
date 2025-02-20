@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá 👋! Meu nome é Lyvia, tenho 18 anos e faço curso de desenvolvimento de sistemas</h2>
 
 ###
 
